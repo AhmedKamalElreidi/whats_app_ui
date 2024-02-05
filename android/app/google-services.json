@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289521664500",
+    "project_id": "whats-otp",
+    "storage_bucket": "whats-otp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289521664500:android:bc283933e27e6efeabb9a1",
+        "android_client_info": {
+          "package_name": "com.example.whats_app_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6F-JC-3O5Aq46P7GirL043YYHj5M12VA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
